@@ -5,7 +5,7 @@ package org.example;
 
 public class App {
     public String getGreeting() {
-        return "This is simple message text changed by Elnar";
+        return "MORE - FORMAL TEXT HERE";
     }
 
     public static void main(String[] args) {
